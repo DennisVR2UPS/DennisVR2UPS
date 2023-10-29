@@ -1,7 +1,7 @@
 👋 Hi, I’m @DennisVR2UPS.
 👀 I’m interested in computing and radio.
 🌱 I’m currently learning about networking.
-💞️ I’m looking to collaborate on innovative projects.
+💞️ I’m looking to collaborate on projects.
 📫 You can reach me via email.
 
 <!---
